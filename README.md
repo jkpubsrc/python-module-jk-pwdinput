@@ -9,7 +9,7 @@ in this case for every character pressed an asterisk is displayed.
 
 Information about this module can be found here:
 
-* [github.org](https://github.com/jkpubsrc/python-module-jk-pwdinput)
+* [github.com](https://github.com/jkpubsrc/python-module-jk-pwdinput)
 * [pypi.python.org](https://pypi.python.org/pypi?name=jk_pwdinput)
 
 How to use this module
